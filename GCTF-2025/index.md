@@ -1,3 +1,7 @@
+--- layout: default 
+title: "Girls in CTF 2025 Writeups" 
+---
+
 # Girls in CTF (GCTF) 2025 Writeups
 
 Here are the challenges I solved:
