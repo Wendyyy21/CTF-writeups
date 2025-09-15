@@ -1,5 +1,6 @@
---- layout: default 
-title: "Girls in CTF 2025 Writeups" 
+---
+title: "GCTF 2025"
+layout: default
 ---
 
 # Girls in CTF (GCTF) 2025 Writeups
