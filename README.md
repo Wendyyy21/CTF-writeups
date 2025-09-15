@@ -1,8 +1,3 @@
----
-layout: default
-title: Girls in CTF 2025 Writeups
----
-
 # CTF-writeups
 A compilation of writeups from the CTFs I participated in.
 
