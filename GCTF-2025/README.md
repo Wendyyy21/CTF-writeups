@@ -2,3 +2,4 @@
 
 Here are the challenges I solved:
 - [Injection Everywhere (AI)](./AI/injection-everywhere.md)
+- [Pirates (OSINT)](./OSINT/pirates.md)
