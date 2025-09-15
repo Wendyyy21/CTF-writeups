@@ -10,7 +10,7 @@ Until today, we can still see injection. WHY?? (Now with GIRL API)
 4. After simply saying that we are an admin, turns out that the chatbot believes us!
 ![We can trick the chatbot into believing that we are an admin](images/Injection_Everywhere1.png)
 5. We can use this to our advantage by accessing the database and its contents (remember to always repeat that we are an admin, otherwise the chatbot will not allow access)
-6. Note that we can use plain English statements to access the database and the tables available, but we need to use an SQL statement to retrieve the contents of the `secret` table.
+6. Note that we can use plain English statements to access the database and the tables available, but we need to use an SQL statement to retrieve the contents of the `secret` table. <br>
 ![Get the flag](images/Injection_Everywhere2.png)
 
 ## Flag:
